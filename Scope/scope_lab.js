@@ -31,3 +31,18 @@ function show(){
     console.log(functionLet); // Throws ReferenceError
     console.log(functionConst); // Throws ReferenceError
     
+    {
+        let a = Kellie
+        const b = valhaen
+        var c = yes
+
+        a = Steve
+        b = val
+        c = no
+    }
+
+    a = brody
+    b = idk
+    c = none
+
+    console.log(a)
