@@ -18,3 +18,7 @@ function checkCountValue() {
   }
 }
 
+function resetFollowers() {
+    count = 0
+    alert("Your followers have been reset to 0.")
+}
